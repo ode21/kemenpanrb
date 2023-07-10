@@ -1,0 +1,670 @@
+id,id_instansi,predikat_rb,tahun,nama_instansi
+1490,1010,BB,2022,Kementerian Koordinator Bidang Politik  Hukum dan Keamanan
+1491,3001,BB,2022,Kementerian Dalam Negeri
+1492,3002,BB,2022,Kementerian Luar Negeri
+1493,3004,BB,2022,Kementerian Hukum dan Hak Asasi Manusia
+1494,3003,BB,2022,Kementerian Pertahanan
+1495,3018,BB,2022,Kementerian Komunikasi dan Informatika
+1496,2060,,2022,Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi
+1497,4002,BB,2022,Kejaksaan Agung
+1498,4007,BB,2022,Mahkamah Agung
+1499,4046,BB,2022,Mahkamah Konstitusi
+1500,4049,BB,2022,Komisi Yudisial
+1501,4034,BB,2022,Tentara Nasional Indonesia
+1502,4033,BB,2022,Kepolisian Negara Republik Indonesia
+1503,4001,A,2022,Kementerian Sekretariat Negara
+1504,4036,A,2022,Sekretariat Kabinet
+1505,4005,BB,2022,Sekretariat Jenderal MPR
+1506,4029,B,2022,Sekretariat Jenderal DPD
+1507,4026,BB,2022,Sekretariat Jenderal DPR
+1508,4010,BB,2022,Badan Siber dan Sandi Negara
+1509,4003,A,2022,Badan Intelijen Negara
+1510,4052,B,2022,Badan Keamanan Laut Republik Indonesia
+1511,4011,BB,2022,Badan Kepegawaian Negara
+1512,4012,A,2022,Lembaga Administrasi Negara
+1513,4018,BB,2022,Arsip Nasional Republik Indonesia
+1514,4040,BB,2022,Badan Narkotika Nasional
+1515,4009,B,2022,Setjen Dewan Ketahanan Nasional
+1516,4024,BB,2022,Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional
+1517,4032,B,2022,Lembaga Ketahanan Nasional
+1518,4502,B,2022,Lembaga Perlindungan Saksi dan Korban
+1519,4044,BB,2022,Komisi Nasional Hak Asasi Manusia
+1520,4041,BB,2022,Komisi Pemilihan Umum
+1521,4062,BB,2022,Badan Pengawasan Pemilihan Umum
+1522,4047,BB,2022,Komisi Pemberantasan Korupsi
+1523,4060,B,2022,Badan Nasional Penanggulangan Terorisme
+1524,4059,B,2022,Badan Nasional Pengelola Perbatasan
+1525,4057,B,2022,Televisi Republik Indonesia
+1526,4058,B,2022,Radio Republik Indonesia
+1527,4056,BB,2022,Ombudsman Republik Indonesia
+1528,4112,BB,2022,Komisi Aparatur Sipil Negara
+1529,1020,BB,2022,Kementerian Koordinator Bidang Perekonomian
+1530,3005,A,2022,Kementerian Keuangan
+1531,3020,BB,2022,Kementerian Perindustrian
+1532,3019,A,2022,Kementerian Perdagangan
+1533,3006,BB,2022,Kementerian Pertanian
+1534,3015,BB,2022,Kementerian Lingkungan Hidup dan Kehutanan
+1535,3013,BB,2022,Kementerian Ketenagakerjaan
+1536,3021,BB,2022,Kementerian Pekerjaan Umum dan Perumahan Rakyat
+1537,4064,BB,2022,Badan Riset dan Inovasi Nasional
+1538,2010,BB,2022,Kementerian Koperasi dan Usaha Kecil dan Menengah
+1539,2120,BB,2022,Kementerian Desa  Pembangunan Daerah Tertinggal dan Transmigrasi
+1540,4017,A,2022,Kementerian Perencanaan Pembangunan Nasional/Badan Perencanaan Pembangunan Nasional
+1541,2040,BB,2022,Kementerian Badan Usaha Milik Negara
+1542,4055,BB,2022,Pusat Pelaporan dan Analisis Transaksi Keuangan
+1543,4008,A,2022,Badan Pemeriksa Keuangan
+1544,4016,BB,2022,Badan Pusat Statistik
+1545,4023,A,2022,Badan Pengawasan Keuangan dan Pembangunan
+1546,4627,BB,2022,Badan Pelindungan Pekerja Migran Indonesia
+1547,4054,BB,2022,Lembaga Kebijakan Pengadaan Barang dan Jasa Pemerintah
+1548,4027,BB,2022,Badan Standardisasi Nasional
+1549,4028,BB,2022,Badan Pengawas Tenaga Nuklir
+1550,4035,BB,2022,Badan Meteorologi Klimatologi dan Geofisika
+1551,4019,BB,2022,Badan Informasi Geospasial
+1552,4021,BB,2022,Kementerian Investasi/Badan Koordinasi Penanaman Modal
+1553,4061,,2022,Komisi Pengawas Persaingan Usaha
+1554,4314,,2022,Badan Pengembangan Wilayah Suramadu
+1555,4045,CC,2022,Badan Pengusahaan Batam
+1556,1030,BB,2022,Kementerian Koordinator Bidang Pembangunan Manusia dan Kebudayaan
+1557,3011,A,2022,Kementerian Kesehatan
+1558,3010,BB,2022,Kementerian Pendidikan  Kebudayaan  Riset  dan Teknologi
+1559,3014,BB,2022,Kementerian Sosial
+1560,3012,BB,2022,Kementerian Agama
+1561,2050,BB,2022,Kementerian Pemberdayaan Perempuan dan Perlindungan Anak
+1562,2100,B,2022,Kementerian Pemuda dan Olahraga
+1563,4308,,2022,Badan Penanggulangan Lumpur Sidoarjo
+1564,4020,BB,2022,Badan Kependudukan dan Keluarga Berencana Nasional
+1565,4053,BB,2022,Badan SAR Nasional/Badan Nasional Pencarian Pertolongan
+1566,4025,BB,2022,Perpustakaan Nasional
+1567,4043,BB,2022,Badan Nasional Penanggulangan Bencana
+1568,4031,A,2022,Badan Pengawas Obat dan Makanan
+1569,4215,,2022,Dewan Jaminan Sosial Nasional
+1570,1040,BB,2022,Kementerian Koordinator Bidang Kemaritiman dan Investasi
+1571,3009,BB,2022,Kementerian Perhubungan
+1572,3016,BB,2022,Kementerian Kelautan dan Perikanan
+1573,3022,BB,2022,Kementerian Pariwisata dan Ekonomi Kreatif/Badan Pariwisata dan Ekonomi Kreatif
+1574,3008,BB,2022,Kementerian Energi dan Sumber Daya Mineral
+1575,4609,B,2022,Badan Pembinaan Ideologi Pancasila
+1576,4632,,2022,Badan Restorasi Gambut dan Mangrove
+1577,5100,B,2022,Provinsi Aceh
+1578,7500,BB,2022,Provinsi Bali
+1579,6200,B,2022,Provinsi Banten
+1580,5800,B,2022,Provinsi Bengkulu
+1581,6300,A,2022,Provinsi Daerah Istimewa Yogyakarta
+1582,6000,BB,2022,Provinsi DKI Jakarta
+1583,7100,B,2022,Provinsi Gorontalo
+1584,5500,B,2022,Provinsi Jambi
+1585,6100,A,2022,Provinsi Jawa Barat
+1586,6400,A,2022,Provinsi Jawa Tengah
+1587,6500,A,2022,Provinsi Jawa Timur
+1588,6600,B,2022,Provinsi Kalimantan Barat
+1589,6800,B,2022,Provinsi Kalimantan Selatan
+1590,6700,B,2022,Provinsi Kalimantan Tengah
+1591,6900,B,2022,Provinsi Kalimantan Timur
+1592,8400,B,2022,Provinsi Kalimantan Utara
+1593,5700,B,2022,Provinsi Kepulauan Bangka Belitung
+1594,8100,B,2022,Provinsi Kepulauan Riau
+1595,5900,CC,2022,Provinsi Lampung
+1596,7800,CC,2022,Provinsi Maluku
+1597,7900,CC,2022,Provinsi Maluku Utara
+1598,7600,B,2022,Provinsi Nusa Tenggara Barat
+1599,7700,B,2022,Provinsi Nusa Tenggara Timur
+1600,8000,CC,2022,Provinsi Papua
+1601,8200,B,2022,Provinsi Papua Barat
+1602,5300,B,2022,Provinsi Riau
+1603,8300,B,2022,Provinsi Sulawesi Barat
+1604,7300,B,2022,Provinsi Sulawesi Selatan
+1605,7200,B,2022,Provinsi Sulawesi Tengah
+1606,7400,B,2022,Provinsi Sulawesi Tenggara
+1607,7000,B,2022,Provinsi Sulawesi Utara
+1608,5400,B,2022,Provinsi Sumatera Barat
+1609,5600,B,2022,Provinsi Sumatera Selatan
+1610,5200,B,2022,Provinsi Sumatera Utara
+1611,5100,B,2022,Provinsi Aceh
+1612,7500,BB,2022,Provinsi Bali
+1613,6200,B,2022,Provinsi Banten
+1614,5800,B,2022,Provinsi Bengkulu
+1615,6300,A,2022,Provinsi Daerah Istimewa Yogyakarta
+1616,6000,BB,2022,Provinsi DKI Jakarta
+1617,7100,B,2022,Provinsi Gorontalo
+1618,5500,B,2022,Provinsi Jambi
+1619,6100,A,2022,Provinsi Jawa Barat
+1620,6400,A,2022,Provinsi Jawa Tengah
+1621,6500,A,2022,Provinsi Jawa Timur
+1622,6600,B,2022,Provinsi Kalimantan Barat
+1623,6800,B,2022,Provinsi Kalimantan Selatan
+1624,6700,B,2022,Provinsi Kalimantan Tengah
+1625,6900,B,2022,Provinsi Kalimantan Timur
+1626,8400,B,2022,Provinsi Kalimantan Utara
+1627,5700,B,2022,Provinsi Kepulauan Bangka Belitung
+1628,8100,B,2022,Provinsi Kepulauan Riau
+1629,5900,CC,2022,Provinsi Lampung
+1630,7800,CC,2022,Provinsi Maluku
+1631,7900,CC,2022,Provinsi Maluku Utara
+1632,7600,B,2022,Provinsi Nusa Tenggara Barat
+1633,7700,B,2022,Provinsi Nusa Tenggara Timur
+1634,8000,CC,2022,Provinsi Papua
+1635,8200,B,2022,Provinsi Papua Barat
+1636,5300,B,2022,Provinsi Riau
+1637,8300,B,2022,Provinsi Sulawesi Barat
+1638,7300,B,2022,Provinsi Sulawesi Selatan
+1639,7200,B,2022,Provinsi Sulawesi Tengah
+1640,7400,B,2022,Provinsi Sulawesi Tenggara
+1641,7000,B,2022,Provinsi Sulawesi Utara
+1642,5400,B,2022,Provinsi Sumatera Barat
+1643,5600,B,2022,Provinsi Sumatera Selatan
+1644,5200,B,2022,Provinsi Sumatera Utara
+1645,5106,CC,2022,Kabupaten Aceh Barat
+1646,5112,CC,2022,Kabupaten Aceh Barat Daya
+1647,5101,C,2022,Kabupaten Aceh Besar
+1648,5116,C,2022,Kabupaten Aceh Jaya
+1649,5105,C,2022,Kabupaten Aceh Selatan
+1650,5111,CC,2022,Kabupaten Aceh Singkil
+1651,5114,CC,2022,Kabupaten Aceh Tamiang
+1652,5107,C,2022,Kabupaten Aceh Tengah
+1653,5108,C,2022,Kabupaten Aceh Tenggara
+1654,5104,CC,2022,Kabupaten Aceh Timur
+1655,5103,CC,2022,Kabupaten Aceh Utara
+1656,5117,CC,2022,Kabupaten Bener Meriah
+1657,5110,CC,2022,Kabupaten Bireuen
+1658,5113,CC,2022,Kabupaten Gayo Lues
+1659,5115,C,2022,Kabupaten Nagan raya
+1660,5102,CC,2022,Kabupaten Pidie
+1661,5118,CC,2022,Kabupaten Pidie jaya
+1662,5109,Tidak Eval,2022,Kabupaten Simeulue
+1663,5172,B,2022,Kota Banda Aceh
+1664,5173,C,2022,Kota Langsa
+1665,5174,C,2022,Kota Lhokseumawe
+1666,5171,C,2022,Kota Sabang
+1667,5175,C,2022,Kota Subulussalam
+1668,5210,CC,2022,Kabupaten Asahan
+1669,5221,CC,2022,Kabupaten Batubara
+1670,5207,CC,2022,Kabupaten Dairi
+1671,5201,CC,2022,Kabupaten Deli Serdang
+1672,5215,CC,2022,Kabupaten Humbang Hasundutan
+1673,5202,C,2022,Kabupaten Karo
+1674,5206,C,2022,Kabupaten Labuhanbatu
+1675,5222,C,2022,Kabupaten Labuhanbatu Selatan
+1676,5223,C,2022,Kabupaten Labuhanbatu Utara
+1677,5203,CC,2022,Kabupaten Langkat
+1678,5213,C,2022,Kabupaten Mandailing Natal
+1679,5211,CC,2022,Kabupaten Nias
+1680,5224,C,2022,Kabupaten Nias Barat
+1681,5214,C,2022,Kabupaten Nias Selatan
+1682,5225,C,2022,Kabupaten Nias Utara
+1683,5219,C,2022,Kabupaten Padang Lawas
+1684,5220,C,2022,Kabupaten Padang Lawas Utara
+1685,5216,C,2022,Kabupaten Pakpak Bharat
+1686,5217,C,2022,Kabupaten Samosir
+1687,5218,CC,2022,Kabupaten Serdang Bedagai
+1688,5205,C,2022,Kabupaten Simalungun
+1689,5209,C,2022,Kabupaten Tapanuli Selatan
+1690,5204,C,2022,Kabupaten Tapanuli Tengah
+1691,5208,CC,2022,Kabupaten Tapanuli Utara
+1692,5212,C,2022,Kabupaten Toba
+1693,5273,C,2022,Kota Binjai
+1694,5278,CC,2022,Kota Gunung Sitoli
+1695,5271,CC,2022,Kota Medan
+1696,5277,CC,2022,Kota Padangsidimpuan
+1697,5274,C,2022,Kota Pematang Siantar
+1698,5276,C,2022,Kota Sibolga
+1699,5275,C,2022,Kota Tanjung Balai
+1700,5272,CC,2022,Kota Tebing Tinggi
+1701,5401,CC,2022,Kabupaten Agam
+1702,5411,CC,2022,Kabupaten Dharmasraya
+1703,5409,CC,2022,Kabupaten Kepulauan Mentawai
+1704,5403,CC,2022,Kabupaten Lima Puluh Kota
+1705,5405,B,2022,Kabupaten Padang Pariaman
+1706,5402,CC,2022,Kabupaten Pasaman
+1707,5412,CC,2022,Kabupaten Pasaman Barat
+1708,5406,CC,2022,Kabupaten Pesisir Selatan
+1709,5408,CC,2022,Kabupaten Sijunjung
+1710,5404,B,2022,Kabupaten Solok
+1711,5410,C,2022,Kabupaten Solok Selatan
+1712,5407,B,2022,Kabupaten Tanah Datar
+1713,5471,B,2022,Kota Bukittinggi
+1714,5475,BB,2022,Kota Padang
+1715,5472,CC,2022,Kota Padang Panjang
+1716,5477,B,2022,Kota Pariaman
+1717,5476,B,2022,Kota Payakumbuh
+1718,5473,CC,2022,Kota Sawahlunto
+1719,5474,B,2022,Kota Solok
+1720,5302,CC,2022,Kabupaten Bengkalis
+1721,5305,B,2022,Kabupaten Indragiri Hilir
+1722,5304,B,2022,Kabupaten Indragiri Hulu
+1723,5301,CC,2022,Kabupaten Kampar
+1724,5313,CC,2022,Kabupaten Kepulauan Meranti
+1725,5312,CC,2022,Kabupaten Kuantan Singingi
+1726,5306,CC,2022,Kabupaten Pelalawan
+1727,5308,CC,2022,Kabupaten Rokan Hilir
+1728,5307,CC,2022,Kabupaten Rokan hulu
+1729,5309,CC,2022,Kabupaten Siak
+1730,5373,CC,2022,Kota Dumai
+1731,5371,B,2022,Kota Pekanbaru
+1732,8101,CC,2022,Kabupaten Bintan
+1733,8102,CC,2022,Kabupaten Karimun
+1734,8105,CC,2022,Kabupaten Kepulauan Anambas
+1735,8104,CC,2022,Kabupaten Lingga
+1736,8103,B,2022,Kabupaten Natuna
+1737,8171,CC,2022,Kota Batam
+1738,8172,B,2022,Kota Tanjungpinang
+1739,5501,B,2022,Kabupaten Batang Hari
+1740,5503,CC,2022,Kabupaten Bungo
+1741,5505,C,2022,Kabupaten Kerinci
+1742,5504,B,2022,Kabupaten Merangin
+1743,5508,C,2022,Kabupaten Muaro Jambi
+1744,5506,CC,2022,Kabupaten Sarolangun
+1745,5502,CC,2022,Kabupaten Tanjung Jabung Barat
+1746,5509,C,2022,Kabupaten Tanjung Jabung Timur
+1747,5507,C,2022,Kabupaten Tebo
+1748,5571,B,2022,Kota Jambi
+1749,5572,C,2022,Kota Sungai Penuh
+1750,5607,CC,2022,Kabupaten Banyuasin
+1751,5611,C,2022,Kabupaten Empat Lawang
+1752,5604,CC,2022,Kabupaten Lahat
+1753,5603,B,2022,Kabupaten Muara Enim
+1754,5601,CC,2022,Kabupaten Musi Banyuasin
+1755,5605,CC,2022,Kabupaten Musi Rawas
+1756,5612,C,2022,Kabupaten Musi Rawas Utara
+1757,5610,C,2022,Kabupaten Ogan Ilir
+1758,5606,C,2022,Kabupaten Ogan Komering Ilir
+1759,5602,C,2022,Kabupaten Ogan Komering Ulu
+1760,5609,C,2022,Kabupaten Ogan Komering Ulu Selatan
+1761,5608,C,2022,Kabupaten Ogan Komering Ulu Timur
+1762,5675,C,2022,Kabupaten Penukal Abab Lematang Ilir
+1763,5673,CC,2022,Kota Lubuk Linggau
+1764,5672,C,2022,Kota Pagar Alam
+1765,5671,CC,2022,Kota Palembang
+1766,5674,C,2022,Kota Prabumulih
+1767,5701,B,2022,Kabupaten Bangka
+1768,5703,CC,2022,Kabupaten Bangka Barat
+1769,5705,B,2022,Kabupaten Bangka Selatan
+1770,5704,B,2022,Kabupaten Bangka Tengah
+1771,5702,CC,2022,Kabupaten Belitung
+1772,5706,CC,2022,Kabupaten Belitung Timur
+1773,5771,B,2022,Kota Pangkal Pinang
+1774,5802,C,2022,Kabupaten Bengkulu Selatan
+1775,5809,CC,2022,Kabupaten Bengkulu Tengah
+1776,5801,CC,2022,Kabupaten Bengkulu Utara
+1777,5804,C,2022,Kabupaten Kaur
+1778,5807,CC,2022,Kabupaten Kepahiang
+1779,5808,CC,2022,Kabupaten Lebong
+1780,5806,CC,2022,Kabupaten Mukomuko
+1781,5803,CC,2022,Kabupaten Rejang Lebong
+1782,5805,C,2022,Kabupaten Seluma
+1783,5871,CC,2022,Kota Bengkulu
+1784,6203,B,2022,Kabupaten Lebak
+1785,6202,CC,2022,Kabupaten Pandeglang
+1786,6201,CC,2022,Kabupaten Serang
+1787,6204,B,2022,Kabupaten Tangerang
+1788,6272,CC,2022,Kota Cilegon
+1789,6273,B,2022,Kota Serang
+1790,6271,B,2022,Kota Tangerang
+1791,6274,B,2022,Kota Tangerang Selatan
+1792,6108,B,2022,Kabupaten Bandung
+1793,6117,B,2022,Kabupaten Bandung Barat
+1794,6104,CC,2022,Kabupaten Bekasi
+1795,6101,B,2022,Kabupaten Bogor
+1796,6112,B,2022,Kabupaten Ciamis
+1797,6103,B,2022,Kabupaten Cianjur
+1798,6113,CC,2022,Kabupaten Cirebon
+1799,6110,B,2022,Kabupaten Garut
+1800,6115,CC,2022,Kabupaten Indramayu
+1801,6105,B,2022,Kabupaten Karawang
+1802,6114,CC,2022,Kabupaten Kuningan
+1803,6116,CC,2022,Kabupaten Majalengka
+1804,6118,CC,2022,Kabupaten Pangandaran
+1805,6106,B,2022,Kabupaten Purwakarta
+1806,6107,CC,2022,Kabupaten Subang
+1807,6102,B,2022,Kabupaten Sukabumi
+1808,6109,BB,2022,Kabupaten Sumedang
+1809,6111,CC,2022,Kabupaten Tasikmalaya
+1810,6171,BB,2022,Kota Bandung
+1811,6179,CC,2022,Kota Banjar
+1812,6175,B,2022,Kota Bekasi
+1813,6172,BB,2022,Kota Bogor
+1814,6177,B,2022,Kota Cimahi
+1815,6174,B,2022,Kota Cirebon
+1816,6176,B,2022,Kota Depok
+1817,6173,BB,2022,Kota Sukabumi
+1818,6178,B,2022,Kota Tasikmalaya
+1819,5904,CC,2022,Kabupaten Lampung Barat
+1820,5901,CC,2022,Kabupaten Lampung Selatan
+1821,5902,CC,2022,Kabupaten Lampung Tengah
+1822,5908,CC,2022,Kabupaten Lampung Timur
+1823,5903,C,2022,Kabupaten Lampung Utara
+1824,5912,C,2022,Kabupaten Mesuji
+1825,5909,CC,2022,Kabupaten Pesawaran
+1826,5913,C,2022,Kabupaten Pesisir Barat
+1827,5911,CC,2022,Kabupaten Pringsewu
+1828,5906,CC,2022,Kabupaten Tanggamus
+1829,5905,CC,2022,Kabupaten Tulang Bawang
+1830,5910,CC,2022,Kabupaten Tulang Bawang Barat
+1831,5907,CC,2022,Kabupaten Way Kanan
+1832,5972,CC,2022,Kota Bandar Lampung
+1833,5971,B,2022,Kota Metro
+1834,6001,,2022,Kabupaten Kepulauan Seribu
+1835,6071,,2022,Kota Administrasi Jakarta Barat
+1836,6072,,2022,Kota Administrasi Jakarta Pusat
+1837,6073,,2022,Kota Administrasi Jakarta Selatan
+1838,6074,,2022,Kota Administrasi Jakarta Timur
+1839,6075,,2022,Kota Administrasi Jakarta Utara
+1840,6508,CC,2022,Kabupaten Bangkalan
+1841,6511,A,2022,Kabupaten Banyuwangi
+1842,6521,B,2022,Kabupaten Blitar
+1843,6527,B,2022,Kabupaten Bojonegoro
+1844,6509,B,2022,Kabupaten Bondowoso
+1845,6501,B,2022,Kabupaten Gresik
+1846,6512,B,2022,Kabupaten Jember
+1847,6504,B,2022,Kabupaten Jombang
+1848,6517,B,2022,Kabupaten Kediri
+1849,6529,BB,2022,Kabupaten Lamongan
+1850,6516,B,2022,Kabupaten Lumajang
+1851,6522,B,2022,Kabupaten Madiun
+1852,6524,B,2022,Kabupaten Magetan
+1853,6513,BB,2022,Kabupaten Malang
+1854,6502,B,2022,Kabupaten Mojokerto
+1855,6519,B,2022,Kabupaten Nganjuk
+1856,6523,B,2022,Kabupaten Ngawi
+1857,6526,B,2022,Kabupaten Pacitan
+1858,6506,B,2022,Kabupaten Pamekasan
+1859,6514,B,2022,Kabupaten Pasuruan
+1860,6525,B,2022,Kabupaten Ponorogo
+1861,6515,B,2022,Kabupaten Probolinggo
+1862,6505,B,2022,Kabupaten Sampang
+1863,6503,B,2022,Kabupaten Sidoarjo
+1864,6510,B,2022,Kabupaten Situbondo
+1865,6507,B,2022,Kabupaten Sumenep
+1866,6520,B,2022,Kabupaten Trenggalek
+1867,6528,BB,2022,Kabupaten Tuban
+1868,6518,B,2022,Kabupaten Tulungagung
+1869,6579,B,2022,Kota Batu
+1870,6576,B,2022,Kota Blitar
+1871,6577,B,2022,Kota Kediri
+1872,6578,B,2022,Kota Madiun
+1873,6573,BB,2022,Kota Malang
+1874,6572,B,2022,Kota Mojokerto
+1875,6574,B,2022,Kota Pasuruan
+1876,6575,B,2022,Kota Probolinggo
+1877,6571,A,2022,Kota Surabaya
+1878,7507,BB,2022,Kabupaten Badung
+1879,7506,B,2022,Kabupaten Bangli
+1880,7501,B,2022,Kabupaten Buleleng
+1881,7504,CC,2022,Kabupaten Gianyar
+1882,7502,B,2022,Kabupaten Jembrana
+1883,7505,CC,2022,Kabupaten Karangasem
+1884,7503,B,2022,Kabupaten Klungkung
+1885,7508,B,2022,Kabupaten Tabanan
+1886,7571,BB,2022,Kota Denpasar
+1887,7604,CC,2022,Kabupaten Bima
+1888,7606,CC,2022,Kabupaten Dompu
+1889,7601,B,2022,Kabupaten Lombok Barat
+1890,7602,CC,2022,Kabupaten Lombok Tengah
+1891,7603,C,2022,Kabupaten Lombok Timur
+1892,7608,CC,2022,Kabupaten Lombok Utara
+1893,7605,CC,2022,Kabupaten Sumbawa
+1894,7607,CC,2022,Kabupaten Sumbawa Barat
+1895,7672,CC,2022,Kota Bima
+1896,7671,B,2022,Kota Mataram
+1897,7705,C,2022,Kabupaten Alor
+1898,7702,C,2022,Kabupaten Belu
+1899,7708,C,2022,Kabupaten Ende
+1900,7707,C,2022,Kabupaten Flores Timur
+1901,7701,C,2022,Kabupaten Kupang
+1902,7713,C,2022,Kabupaten Lembata
+1903,7721,C,2022,Kabupaten Malaka
+1904,7710,CC,2022,Kabupaten Manggarai
+1905,7715,CC,2022,Kabupaten Manggarai Barat
+1906,7716,C,2022,Kabupaten Manggarai Timur
+1907,7718,CC,2022,Kabupaten Nagekeo
+1908,7709,CC,2022,Kabupaten Ngada
+1909,7714,C,2022,Kabupaten Rote Ndao
+1910,7720,C,2022,Kabupaten Sabu Raijua
+1911,7706,C,2022,Kabupaten Sikka
+1912,7712,C,2022,Kabupaten Sumba Barat
+1913,7717,C,2022,Kabupaten Sumba Barat Daya
+1914,7719,C,2022,Kabupaten Sumba Tengah
+1915,7711,C,2022,Kabupaten Sumba Timur
+1916,7704,C,2022,Kabupaten Timor Tengah Selatan
+1917,7703,C,2022,Kabupaten Timor Tengah Utara
+1918,7771,B,2022,Kota Kupang
+1919,6607,CC,2022,Kabupaten Bengkayang
+1920,6605,B,2022,Kabupaten Kapuas Hulu
+1921,6612,CC,2022,Kabupaten Kayong Utara
+1922,6606,CC,2022,Kabupaten Ketapang
+1923,6611,CC,2022,Kabupaten Kubu Raya
+1924,6608,B,2022,Kabupaten Landak
+1925,6609,CC,2022,Kabupaten Melawi
+1926,6604,B,2022,Kabupaten Mempawah
+1927,6601,B,2022,Kabupaten Sambas
+1928,6602,CC,2022,Kabupaten Sanggau
+1929,6610,CC,2022,Kabupaten Sekadau
+1930,6603,CC,2022,Kabupaten Sintang
+1931,6671,B,2022,Kota Pontianak
+1932,6672,B,2022,Kota Singkawang
+1933,6703,CC,2022,Kabupaten Barito Selatan
+1934,6713,C,2022,Kabupaten Barito Timur
+1935,6702,CC,2022,Kabupaten Barito Utara
+1936,6707,CC,2022,Kabupaten Gunung Mas
+1937,6701,CC,2022,Kabupaten Kapuas
+1938,6711,CC,2022,Kabupaten Katingan
+1939,6705,B,2022,Kabupaten Kotawaringin Barat
+1940,6704,CC,2022,Kabupaten Kotawaringin Timur
+1941,6708,CC,2022,Kabupaten Lamandau
+1942,6710,C,2022,Kabupaten Murung Raya
+1943,6706,C,2022,Kabupaten Pulang Pisau
+1944,6712,B,2022,Kabupaten Seruyan
+1945,6709,C,2022,Kabupaten Sukamara
+1946,6771,B,2022,Kota Palangkaraya
+1947,6811,B,2022,Kabupaten Balangan
+1948,6801,CC,2022,Kabupaten Banjar
+1949,6806,CC,2022,Kabupaten Barito Kuala
+1950,6804,BB,2022,Kabupaten Hulu Sungai Selatan
+1951,6805,CC,2022,Kabupaten Hulu Sungai Tengah
+1952,6809,CC,2022,Kabupaten Hulu Sungai Utara
+1953,6808,CC,2022,Kabupaten Kotabaru
+1954,6807,CC,2022,Kabupaten Tabalong
+1955,6810,CC,2022,Kabupaten Tanah Bumbu
+1956,6802,B,2022,Kabupaten Tanah Laut
+1957,6803,CC,2022,Kabupaten Tapin
+1958,6872,B,2022,Kota Banjarbaru
+1959,6871,B,2022,Kota Banjarmasin
+1960,6904,CC,2022,Kabupaten Berau
+1961,6907,CC,2022,Kabupaten Kutai Barat
+1962,6901,B,2022,Kabupaten Kutai Kartanegara
+1963,6908,C,2022,Kabupaten Kutai Timur
+1964,6912,C,2022,Kabupaten Mahakam Ulu
+1965,6902,CC,2022,Kabupaten Paser
+1966,6910,B,2022,Kabupaten Penajam Paser Utara
+1967,6972,B,2022,Kota Balikpapan
+1968,6973,B,2022,Kota Bontang
+1969,6971,B,2022,Kota Samarinda
+1970,8401,B,2022,Kabupaten Bulungan
+1971,8402,B,2022,Kabupaten Malinau
+1972,8403,CC,2022,Kabupaten Nunukan
+1973,8404,CC,2022,Kabupaten Tana Tidung
+1974,8471,CC,2022,Kota Tarakan
+1975,6418,B,2022,Kabupaten Banjarnegara
+1976,6415,BB,2022,Kabupaten Banyumas
+1977,6406,B,2022,Kabupaten Batang
+1978,6414,CC,2022,Kabupaten Blora
+1979,6425,B,2022,Kabupaten Boyolali
+1980,6408,CC,2022,Kabupaten Brebes
+1981,6416,B,2022,Kabupaten Cilacap
+1982,6403,B,2022,Kabupaten Demak
+1983,6404,B,2022,Kabupaten Grobogan
+1984,6412,B,2022,Kabupaten Jepara
+1985,6428,B,2022,Kabupaten Karanganyar
+1986,6423,B,2022,Kabupaten Kebumen
+1987,6402,B,2022,Kabupaten Kendal
+1988,6424,CC,2022,Kabupaten Klaten
+1989,6410,B,2022,Kabupaten Kudus
+1990,6419,B,2022,Kabupaten Magelang
+1991,6409,B,2022,Kabupaten Pati
+1992,6405,B,2022,Kabupaten Pekalongan
+1993,6411,B,2022,Kabupaten Pemalang
+1994,6417,B,2022,Kabupaten Purbalingga
+1995,6422,B,2022,Kabupaten Purworejo
+1996,6413,B,2022,Kabupaten Rembang
+1997,6401,B,2022,Kabupaten Semarang
+1998,6426,B,2022,Kabupaten Sragen
+1999,6427,CC,2022,Kabupaten Sukoharjo
+2000,6407,B,2022,Kabupaten Tegal
+2001,6420,B,2022,Kabupaten Temanggung
+2002,6429,B,2022,Kabupaten Wonogiri
+2003,6421,B,2022,Kabupaten Wonosobo
+2004,6475,B,2022,Kota Magelang
+2005,6473,BB,2022,Kota Pekalongan
+2006,6472,B,2022,Kota Salatiga
+2007,6471,BB,2022,Kota Semarang
+2008,6476,BB,2022,Kota Surakarta
+2009,6474,B,2022,Kota Tegal
+2010,6301,BB,2022,Kabupaten Bantul
+2011,6303,BB,2022,Kabupaten Gunung Kidul
+2012,6304,BB,2022,Kabupaten Kulon Progo
+2013,6302,BB,2022,Kabupaten Sleman
+2014,6371,BB,2022,Kota Yogyakarta
+2015,7002,CC,2022,Kabupaten Bolaang Mongondow
+2016,7012,CC,2022,Kabupaten Bolaang Mongondow Selatan
+2017,7013,C,2022,Kabupaten Bolaang Mongondow Timur
+2018,7007,C,2022,Kabupaten Bolaang Mongondow Utara
+2019,7003,CC,2022,Kabupaten Kepulauan Sangihe
+2020,7008,CC,2022,Kabupaten Kepulauan Siau Tagulandang Biaro
+2021,7005,C,2022,Kabupaten Kepulauan Talaud
+2022,7001,C,2022,Kabupaten Minahasa
+2023,7004,C,2022,Kabupaten Minahasa Selatan
+2024,7009,C,2022,Kabupaten Minahasa Tenggara
+2025,7006,C,2022,Kabupaten Minahasa Utara
+2026,7072,CC,2022,Kota Bitung
+2027,7074,B,2022,Kota Kotamobagu
+2028,7071,B,2022,Kota Manado
+2029,7073,CC,2022,Kota Tomohon
+2030,7204,B,2022,Kabupaten Banggai
+2031,7207,C,2022,Kabupaten Banggai Kepulauan
+2032,7211,CC,2022,Kabupaten Banggai Laut
+2033,7205,C,2022,Kabupaten Buol
+2034,7202,-,2022,Kabupaten Donggala
+2035,7206,CC,2022,Kabupaten Morowali
+2036,7212,C,2022,Kabupaten Morowali Utara
+2037,7208,C,2022,Kabupaten Parigi Moutong
+2038,7201,CC,2022,Kabupaten Poso
+2039,7210,C,2022,Kabupaten Sigi
+2040,7209,CC,2022,Kabupaten Tojo Una-una
+2041,7203,CC,2022,Kabupaten Tolitoli
+2042,7271,CC,2022,Kota Palu
+2043,7312,C,2022,Kabupaten Bantaeng
+2044,7316,CC,2022,Kabupaten Barru
+2045,7305,CC,2022,Kabupaten Bone
+2046,7311,CC,2022,Kabupaten Bulukumba
+2047,7321,CC,2022,Kabupaten Enrekang
+2048,7302,CC,2022,Kabupaten Gowa
+2049,7313,CC,2022,Kabupaten Jeneponto
+2050,7314,CC,2022,Kabupaten Kepulauan Selayar
+2051,7309,CC,2022,Kabupaten Luwu
+2052,7325,CC,2022,Kabupaten Luwu Timur
+2053,7322,B,2022,Kabupaten Luwu Utara
+2054,7307,B,2022,Kabupaten Maros
+2055,7318,CC,2022,Kabupaten Pangkajene dan Kepulauan
+2056,7301,B,2022,Kabupaten Pinrang
+2057,7317,CC,2022,Kabupaten Sidenreng Rappang
+2058,7310,CC,2022,Kabupaten Sinjai
+2059,7319,CC,2022,Kabupaten Soppeng
+2060,7315,CC,2022,Kabupaten Takalar
+2061,7306,C,2022,Kabupaten Tana Toraja
+2062,7326,C,2022,Kabupaten Toraja Utara
+2063,7303,B,2022,Kabupaten Wajo
+2064,7371,B,2022,Kota Makassar
+2065,7373,CC,2022,Kota Palopo
+2066,7372,B,2022,Kota Pare-Pare
+2067,7407,CC,2022,Kabupaten Bombana
+2068,7402,CC,2022,Kabupaten Buton
+2069,7414,CC,2022,Kabupaten Buton Selatan
+2070,7415,CC,2022,Kabupaten Buton Tengah
+2071,7410,CC,2022,Kabupaten Buton Utara
+2072,7404,CC,2022,Kabupaten Kolaka
+2073,7412,CC,2022,Kabupaten Kolaka Timur
+2074,7406,CC,2022,Kabupaten Kolaka Utara
+2075,7401,C,2022,Kabupaten Konawe
+2076,7413,C,2022,Kabupaten Konawe Kepulauan
+2077,7405,CC,2022,Kabupaten Konawe Selatan
+2078,7411,CC,2022,Kabupaten Konawe Utara
+2079,7403,C,2022,Kabupaten Muna
+2080,7416,C,2022,Kabupaten Muna Barat
+2081,7408,C,2022,Kabupaten Wakatobi
+2082,7472,CC,2022,Kota Bau-Bau
+2083,7471,B,2022,Kota Kendari
+2084,7102,CC,2022,Kabupaten Boalemo
+2085,7104,B,2022,Kabupaten Bone Bolango
+2086,7101,B,2022,Kabupaten Gorontalo
+2087,7105,CC,2022,Kabupaten Gorontalo Utara
+2088,7103,B,2022,Kabupaten Pohuwato
+2089,7171,B,2022,Kota Gorontalo
+2090,8305,CC,2022,Kabupaten Majene
+2091,8303,C,2022,Kabupaten Mamasa
+2092,8302,C,2022,Kabupaten Mamuju
+2093,8306,C,2022,Kabupaten Mamuju Tengah
+2094,8301,CC,2022,Kabupaten Pasangkayu
+2095,8304,B,2022,Kabupaten Polewali Mandar
+2096,7803,-,2022,Kabupaten Buru
+2097,7808,-,2022,Kabupaten Buru Selatan
+2098,7805,C,2022,Kabupaten Kepulauan Aru
+2099,7809,C,2022,Kabupaten Maluku Barat Daya
+2100,7801,CC,2022,Kabupaten Maluku Tengah
+2101,7802,-,2022,Kabupaten Maluku Tenggara
+2102,7804,-,2022,Kabupaten Kepulauan Tanimbar
+2103,7806,-,2022,Kabupaten Seram Bagian Barat
+2104,7807,-,2022,Kabupaten Seram Bagian Timur
+2105,7871,CC,2022,Kota Ambon
+2106,7872,-,2022,Kota Tual
+2107,7901,-,2022,Kabupaten Halmahera Barat
+2108,7904,D,2022,Kabupaten Halmahera Selatan
+2109,7902,-,2022,Kabupaten Halmahera Tengah
+2110,7906,C,2022,Kabupaten Halmahera Timur
+2111,7905,C,2022,Kabupaten Halmahera Utara
+2112,7903,-,2022,Kabupaten Kepulauan Sula
+2113,7907,C,2022,Kabupaten Pulau Morotai
+2114,7908,C,2022,Kabupaten Pulau Taliabu
+2115,7971,CC,2022,Kota Ternate
+2116,7972,C,2022,Kota Tidore kepulauan
+2117,8015,-,2022,Kabupaten Asmat
+2118,8002,C,2022,Kabupaten Biak Numfor
+2119,8013,-,2022,Kabupaten Boven Digoel
+2120,8036,-,2022,Kabupaten Deiyai
+2121,8033,-,2022,Kabupaten Dogiyai
+2122,8037,-,2022,Kabupaten Intan Jaya
+2123,8001,C,2022,Kabupaten Jayapura
+2124,8008,C,2022,Kabupaten Jayawijaya
+2125,8020,-,2022,Kabupaten Keerom
+2126,8004,-,2022,Kabupaten Kepulauan Yapen
+2127,8030,-,2022,Kabupaten Lanny Jaya
+2128,8028,-,2022,Kabupaten Mamberamo Raya
+2129,8029,-,2022,Kabupaten Mamberamo Tengah
+2130,8014,-,2022,Kabupaten Mappi
+2131,8007,-,2022,Kabupaten Merauke
+2132,8012,-,2022,Kabupaten Mimika
+2133,8009,-,2022,Kabupaten Nabire
+2134,8032,-,2022,Kabupaten Nduga
+2135,8011,-,2022,Kabupaten Paniai
+2136,8017,-,2022,Kabupaten Pegunungan Bintang
+2137,8035,-,2022,Kabupaten Puncak
+2138,8010,-,2022,Kabupaten Puncak Jaya
+2139,8019,-,2022,Kabupaten Sarmi
+2140,8027,-,2022,Kabupaten Supiori
+2141,8018,-,2022,Kabupaten Tolikara
+2142,8026,-,2022,Kabupaten Waropen
+2143,8016,-,2022,Kabupaten Yahukimo
+2144,8031,-,2022,Kabupaten Yalimo
+2145,8072,CC,2022,Kota Jayapura
+2146,8207,C,2022,Kabupaten Fak-fak
+2147,8208,C,2022,Kabupaten Kaimana
+2148,8204,C,2022,Kabupaten Manokwari
+2149,8213,-,2022,Kabupaten Manokwari Selatan
+2150,8211,-,2022,Kabupaten Maybrat
+2151,8212,-,2022,Kabupaten Pegunungan Arfak
+2152,8203,C,2022,Kabupaten Raja Ampat
+2153,8201,CC,2022,Kabupaten Sorong
+2154,8202,-,2022,Kabupaten Sorong Selatan
+2155,8210,-,2022,Kabupaten Tambrauw
+2156,8205,-,2022,Kabupaten Teluk Bintuni
+2157,8206,B,2022,Kabupaten Teluk Wondama
+2158,8271,-,2022,Kota Sorong
